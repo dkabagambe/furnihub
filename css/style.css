@@ -499,6 +499,7 @@ button {
   float: left;
   position: relative;
   top: -60px;
+  height: 100%;
 }
 .helina_text {
   width: 100%;
